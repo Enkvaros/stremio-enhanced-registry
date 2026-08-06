@@ -120,6 +120,14 @@
       "version": "1.4.0",
       "repo": "https://github.com/JZOnTheGit/stream-quality-picker",
       "download": "https://github.com/JZOnTheGit/stream-quality-picker/releases/download/v1.4.0/stream-quality-picker.plugin.js"
+    },
+    {
+      "name": "Expand Stream Titles",
+      "author": "You",
+      "description": "Fixes truncated stream title names in the streams sidebar by wrapping text.",
+      "version": "1.0.0",
+      "repo": "https://github.com/REVENGE977/stremio-enhanced-registry",
+      "download": "https://gist.githubusercontent.com/Enkvaros/43f26fde62795e169f7e47377a58e5c1/raw/2660a409d037fd8776be43baa07767b89b42ed7f/gistfile1.txt"
     }
   ],
   "themes": [
